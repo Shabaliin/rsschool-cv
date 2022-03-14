@@ -14,3 +14,32 @@ I am a very active computer and Internet user, I spend 12+ hours at the computer
 * **React**
 * **Redux**
 * **GIT**
+## Code example:
+**Perimeter sequence**
+```javascript
+const perimeterSequence = (a,n) => a * n * 4
+```
+**Number of Decimal Digits**
+```javascript
+const digits = (n) => n.toString().length;
+```
+**Largest Square Inside A Circle**
+```javascript
+const areaLargestSquare = (r) => 2 * r * r
+```
+## Experience
+**to-do list**
+I wrote a training project "to-do list". For development I used React:
+
+[Link to the project](https://github.com/Shabaliin/todo "https://github.com/Shabaliin/todo")
+
+## Education
+* **Ufa fuel and energy college**
+  * Relay protection and automation of electric power systems
+* **Frontend development basics**
+  * HTML and CSS
+  * JavaScript
+  * React end Redux
+## Languages
+* **Russian** - native speaker
+* **English** - beginner
