@@ -6,6 +6,7 @@
 * **Discord** Aleksey Shabalin (@Shabaliin)  
 * [Telegram](https://t.me/alekseyshaab "https://t.me/alekseyshaab")
 
+
 ## Summary
 I am a very active computer and Internet user, I spend 12+ hours at the computer, I understand computers well enough, which contributes to the rapid study of software and tools used in work. Ready for intensive learning.
 ## Skills
@@ -15,6 +16,7 @@ I am a very active computer and Internet user, I spend 12+ hours at the computer
 * **React**
 * **Redux**
 * **GIT**
+
 
 ## Code example:
 **Perimeter sequence**
@@ -42,6 +44,7 @@ I wrote a training project "to-do list". For development I used React:
   * HTML and CSS
   * JavaScript
   * React end Redux
+ 
  
 ## Languages
 * **Russian** - native speaker
